@@ -7,13 +7,13 @@
 }
 
 .section .reveal .state-background {
-  background: url(back01.jpg);
+  background: url(pics/back01.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .slide1 .reveal .state-background {
-  background: url(back11.jpg), url(back12.jpg);
+  background: url(pics/back11.jpg), url(pics/back12.jpg);
   background-size: contain, contain;
   background-repeat: no-repeat, no-repeat;
   background-position: top, 0px 520px;
@@ -21,7 +21,7 @@
 }
 
 .slide2 .reveal .state-background {
-  background: url(back21.jpg), url(back22.jpg);
+  background: url(pics/back21.jpg), url(pics/back22.jpg);
   background-size: contain, contain;
   background-repeat: no-repeat, no-repeat;
   background-position: top, 0px 520px;
@@ -29,7 +29,7 @@
 }
 
 .slide3 .reveal .state-background {
-  background: url(back31.jpg), url(back32.jpg);
+  background: url(pics/back31.jpg), url(pics/back32.jpg);
   background-size: contain, contain;
   background-repeat: no-repeat, no-repeat;
   background-position: top, 0px 520px;
@@ -37,7 +37,7 @@
 }
 
 .slide4 .reveal .state-background {
-  background: url(back41.jpg), url(back42.jpg);
+  background: url(pics/back41.jpg), url(pics/back42.jpg);
   background-size: contain, contain;
   background-repeat: no-repeat, no-repeat;
   background-position: top, 0px 520px;
