@@ -81,7 +81,7 @@ s u s t a i n a b l e
 ========================
 type: slide4
 <h1><p style="color:White">
-q u a l i t y
+s c i e n c e q u a l i t y
 </p>
 </h1>
 
