@@ -64,6 +64,46 @@ s l o w
 </h1>
 
 ========================
+<iframe src="https://bit.ly/slowpenresp" width="1280" height="800" scrolling = "no"></iframe>
+
+========================
+<h1><p>
+Please grab your phone and go to <br/>
+<br/> bit.ly/slowpen1
+</h1>
+
+========================
+<iframe src="https://bit.ly/slowpen1resp" width="1280" height="800" scrolling = "no"></iframe>
+
+========================
+<h1><p>
+Please grab your phone and go to <br/>
+<br/> bit.ly/slowpen2
+</h1>
+
+========================
+<iframe src="https://bit.ly/slowpen2resp" width="1280" height="800" scrolling = "no"></iframe>
+
+========================
+<h1><p>
+Please grab your phone and go to <br/>
+<br/> bit.ly/slowpen3
+</h1>
+
+========================
+<iframe src="https://bit.ly/slowpen3resp" width="1280" height="800" scrolling = "no"></iframe>
+
+========================
+<h1><p>
+Please grab your phone and go to <br/>
+<br/> bit.ly/slowpen4
+</h1>
+
+========================
+<iframe src="https://bit.ly/slowpen4resp" width="1280" height="800" scrolling = "no"></iframe>
+
+
+========================
 type: slide2
 <h1><p style="color:White">
 o p e n
@@ -81,8 +121,7 @@ s u s t a i n a b l e
 ========================
 type: slide4
 <h1><p style="color:White">
-s c i e n c e q u a l i t y
+W a l d e n
 </p>
 </h1>
-
 
