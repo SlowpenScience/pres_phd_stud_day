@@ -12,6 +12,12 @@
   background-repeat: no-repeat;
 }
 
+.slide0 .reveal .state-background {
+  background: url(pics/back01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .slide1 .reveal .state-background {
   background: url(pics/back11.jpg), url(pics/back12.jpg);
   background-size: contain, contain;
@@ -44,12 +50,91 @@
   background-repeat: no-repeat, repeat;
 }
 
+.slideosf .reveal .state-background {
+  background: url(pics/backosf.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
 </style>
 
 
 ========================
 font-family: 'Poiret One'
 transition: none
+<h1><p style="color:White">
+s l o w p e n
+</p>
+</h1>
+
+========================
+type: slide0
+<h1><p style="color:White">
+s l o w p e n
+</p>
+</h1>
+
+========================
+type: slide0
+font-family: 'Poiret One'
+transition: none
+<h1><p style="color:White">
+Brice Beffara 
+</p>
+</h1>
+
+========================
+type: slide0
+<h1><p style="color:White">
+s l o w p e n
+</p>
+</h1>
+
+========================
+type: slide0
+<p style="color:White">
+<br/>
+<br/> Amélie Bret &#xd7 Grenoble · Fr
+</p>
+
+
+========================
+type: slide0
+<p style="color:White">
+<br/>
+<br/> Amélie Bret &#xd7 Grenoble · Fr
+<br/>
+<br/> Yseult Héjja-Brichard  &#xd7 Toulouse · Fr
+</p>
+
+========================
+type: slide0
+<p style="color:White">
+<br/>
+<br/> Amélie Bret &#xd7 Grenoble · Fr
+<br/>
+<br/> Yseult Héjja-Brichard  &#xd7 Toulouse · Fr
+<br/>
+<br/> Ladislas Nalborczyk  &#xd7 Ghent · Be
+</p>
+</h1>
+
+========================
+type: slide0
+<p style="color:White">
+<br/>
+<br/> Amélie Bret &#xd7 Grenoble · Fr
+<br/>
+<br/> Yseult Héjja-Brichard  &#xd7 Toulouse · Fr
+<br/>
+<br/> Ladislas Nalborczyk  &#xd7 Ghent · Be
+<br/>
+<br/> Brice Beffara &#xd7 Lyon · Fr
+</p>
+
+========================
+type: slide0
 <h1><p style="color:White">
 s l o w p e n
 </p>
@@ -102,6 +187,12 @@ Please grab your phone and go to <br/>
 ========================
 <iframe src="https://bit.ly/slowpen4resp" width="1280" height="800" scrolling = "no"></iframe>
 
+========================
+type: slide1
+<h1><p style="color:White">
+s l o w
+</p>
+</h1>
 
 ========================
 type: slide2
@@ -109,6 +200,9 @@ type: slide2
 o p e n
 </p>
 </h1>
+
+========================
+type: slideosf
 
 ========================
 type: slide3
