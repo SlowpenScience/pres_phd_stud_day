@@ -20,11 +20,11 @@
 }
 
 .slide1 .reveal .state-background {
-  background: url(pics/back11.jpg), url(pics/back12.jpg);
-  background-size: contain, contain;
+  background: url(pics/back111.jpg), url(pics/back112.jpg);
+  background-size: contain, cover;
   background-repeat: no-repeat, no-repeat;
   background-position: top, 0px 520px;
-  background-repeat: no-repeat, repeat;
+  background-repeat: no-repeat, no-repeat;
 }
 
 .slide2 .reveal .state-background {
@@ -60,6 +60,12 @@
 .slidearxiv .reveal .state-background {
   background: url(pics/backarxiv.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slidejames .reveal .state-background {
+  background: url(pics/james.jpg);
+  background-size: cover
   background-repeat: no-repeat;
 }
 
@@ -229,7 +235,7 @@ W a l d e n
 ========================
 type: slide0
 <p style="color:White;font-size:65px">
-Big thank for organizing everything
+Big thanks for organizing everything
 <br/>
 <br/>Amelie Bret · Lisa Molto
 <br/>
@@ -267,4 +273,9 @@ type: slide0
 slowpen.science
 <br/>
 <br/>brice.beffara@slowpen.science
+</p>
+<p style="color:White;font-size:45px">
+pics from <br/>
+independent-photo.com <br/>
+janblomqvist.com
 </p>
