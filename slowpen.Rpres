@@ -1,9 +1,10 @@
 <style>
 
-.reveal h3 { 
-  font-size: 2.5em;
-  color: white;
-  margin-top: 50px;
+.reveal h6 { 
+  color: white; 
+  font-size: 430%;
+  margin-top: 0%;
+  margin-left: -20%; !important
 }
 
 .section .reveal .state-background {
@@ -56,6 +57,19 @@
   background-repeat: no-repeat;
 }
 
+iframe {
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  min-width: 1920px; 
+  min-height: 1080px; 
+  width: auto; 
+  height: auto;
+  z-index: -1000; 
+  overflow: hidden;
+}
 
 </style>
 
@@ -63,93 +77,65 @@
 ========================
 font-family: 'Poiret One'
 transition: none
-<h1><p style="color:White">
+
+========================
+type: slide0
+<h6>
 s l o w p e n
-</p>
-</h1>
+</h6>
 
 ========================
 type: slide0
-<h1><p style="color:White">
+<p style="color:White;font-size:65px">
+Brice Beffara &#xd7 Lyon · Fr
+</p>
+
+========================
+type: slide0
+<p style="color:White;font-size:65px">
+Brice Beffara &#xd7 Lyon · Fr
+<br/>
+<br/>Amélie Bret &#xd7 Grenoble · Fr
+</p>
+
+========================
+type: slide0
+<p style="color:White;font-size:65px">
+Brice Beffara &#xd7 Lyon · Fr
+<br/>
+<br/>Amélie Bret &#xd7 Grenoble · Fr
+<br/>
+<br/>Yseult Héjja-Brichard  &#xd7 Toulouse · Fr
+</p>
+
+========================
+type: slide0
+<p style="color:White;font-size:65px">
+Brice Beffara &#xd7 Lyon · Fr
+<br/>
+<br/>Amélie Bret &#xd7 Grenoble · Fr
+<br/>
+<br/>Yseult Héjja-Brichard  &#xd7 Toulouse · Fr
+<br/>
+<br/>Ladislas Nalborczyk  &#xd7 Ghent · Be
+</p>
+
+
+========================
+type: slide0
+<h6>
 s l o w p e n
-</p>
-</h1>
-
-========================
-type: slide0
-font-family: 'Poiret One'
-transition: none
-<h1><p style="color:White">
-Brice Beffara 
-</p>
-</h1>
-
-========================
-type: slide0
-<h1><p style="color:White">
-s l o w p e n
-</p>
-</h1>
-
-========================
-type: slide0
-<p style="color:White">
-<br/>
-<br/> Amélie Bret &#xd7 Grenoble · Fr
-</p>
-
-
-========================
-type: slide0
-<p style="color:White">
-<br/>
-<br/> Amélie Bret &#xd7 Grenoble · Fr
-<br/>
-<br/> Yseult Héjja-Brichard  &#xd7 Toulouse · Fr
-</p>
-
-========================
-type: slide0
-<p style="color:White">
-<br/>
-<br/> Amélie Bret &#xd7 Grenoble · Fr
-<br/>
-<br/> Yseult Héjja-Brichard  &#xd7 Toulouse · Fr
-<br/>
-<br/> Ladislas Nalborczyk  &#xd7 Ghent · Be
-</p>
-</h1>
-
-========================
-type: slide0
-<p style="color:White">
-<br/>
-<br/> Amélie Bret &#xd7 Grenoble · Fr
-<br/>
-<br/> Yseult Héjja-Brichard  &#xd7 Toulouse · Fr
-<br/>
-<br/> Ladislas Nalborczyk  &#xd7 Ghent · Be
-<br/>
-<br/> Brice Beffara &#xd7 Lyon · Fr
-</p>
-
-========================
-type: slide0
-<h1><p style="color:White">
-s l o w p e n
-</p>
-</h1>
+</h6>
 
 
 ========================
 type: slide1
-<h1><p style="color:White">
+<h6>
 s l o w
-</p>
-</h1>
+</h6>
 
 ========================
-<iframe src="https://bit.ly/slowpenresp" width="1280" height="800" scrolling = "no"></iframe>
+<iframe src="https://www.bit.ly/slowpenresp" scrolling= "no"></iframe>
 
 ========================
 <h1><p>
@@ -158,7 +144,7 @@ Please grab your phone and go to <br/>
 </h1>
 
 ========================
-<iframe src="https://bit.ly/slowpen1resp" width="1280" height="800" scrolling = "no"></iframe>
+<iframe src="https://www.bit.ly/slowpen1resp" scrolling= "no"></iframe>
 
 ========================
 <h1><p>
@@ -167,7 +153,7 @@ Please grab your phone and go to <br/>
 </h1>
 
 ========================
-<iframe src="https://bit.ly/slowpen2resp" width="1280" height="800" scrolling = "no"></iframe>
+<iframe src="https://www.bit.ly/slowpen2resp" scrolling= "no"></iframe>
 
 ========================
 <h1><p>
@@ -176,7 +162,7 @@ Please grab your phone and go to <br/>
 </h1>
 
 ========================
-<iframe src="https://bit.ly/slowpen3resp" width="1280" height="800" scrolling = "no"></iframe>
+<iframe src="https://www.bit.ly/slowpen3resp" scrolling= "no"></iframe>
 
 ========================
 <h1><p>
@@ -185,37 +171,33 @@ Please grab your phone and go to <br/>
 </h1>
 
 ========================
-<iframe src="https://bit.ly/slowpen4resp" width="1280" height="800" scrolling = "no"></iframe>
+<iframe src="https://www.bit.ly/slowpen4resp" scrolling= "no"></iframe>
 
 ========================
 type: slide1
-<h1><p style="color:White">
+<h6>
 s l o w
-</p>
-</h1>
+</h6>
 
 ========================
 type: slide2
-<h1><p style="color:White">
+<h6>
 o p e n
-</p>
-</h1>
+</h6>
 
 ========================
 type: slideosf
 
 ========================
 type: slide3
-<h1><p style="color:White">
+<h6>
 s l o w  &#xd7 o p e n = <br/>
 s u s t a i n a b l e
-</p>
-</h1>
+</h6>
 
 ========================
 type: slide4
-<h1><p style="color:White">
+<h6>
 W a l d e n
-</p>
-</h1>
+</h6>
 
