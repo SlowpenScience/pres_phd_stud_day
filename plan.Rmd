@@ -1,0 +1,50 @@
+---
+title: "Plan PhD Student Day Presentation"
+author: "Brice Beffara"
+date: "October 5, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/>
+
+## Slowpen
+#### Slowpen science as an hypothesis
+
+<br/>
+
+## Slow
+
+#### Questions epistemology
+#### Humans are animals
+#### Wundt
+#### Skinner
+
+<br/>
+
+## Open
+
+#### OSF
+#### psyarXiv
+#### Women in Science
+
+<br/>
+
+## Sustainable
+
+#### Slowing down and opening = more sustainable
+#### Science should use science
+#### Example Plane and Food
+
+<br/>
+
+## Walden
+
+#### Thoreau: A life in the Wood
+#### Skinner: Experimental Society
+#### Non profit science
+
+<br/>
