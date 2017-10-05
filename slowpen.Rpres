@@ -57,6 +57,12 @@
   background-repeat: no-repeat;
 }
 
+.slidearxiv .reveal .state-background {
+  background: url(pics/backarxiv.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 iframe {
   position: absolute;
   top: 50%; 
@@ -189,10 +195,29 @@ o p e n
 type: slideosf
 
 ========================
+type: slidearxiv
+
+========================
+type: slide2
+<h6>
+W o m e n <br/>
+i n <br/>
+S c i e n c e <br/>
+</h6>
+
+========================
 type: slide3
 <h6>
 s l o w  &#xd7 o p e n = <br/>
 s u s t a i n a b l e
+</h6>
+
+========================
+type: slide3
+<h6>
+Science <br/>
+for <br/>
+Science <br/>
 </h6>
 
 ========================
@@ -201,3 +226,45 @@ type: slide4
 W a l d e n
 </h6>
 
+========================
+type: slide0
+<p style="color:White;font-size:65px">
+Big thank for organizing everything
+<br/>
+<br/>Amelie Bret · Lisa Molto
+<br/>
+<br/>Audrey Mazancieux · Chris Moulin
+</p>
+
+========================
+type: slide0
+<p style="color:White;font-size:65px">
+Thank you for your attention
+</p>
+
+========================
+type: slide0
+<p style="color:White;font-size:65px">
+Thank you for your attention
+<br/>
+<br/>What do you think about it ? 
+</p>
+
+========================
+type: slide0
+<p style="color:White;font-size:65px">
+Thank you for your attention
+<br/>
+<br/>What do you think about it ? 
+<br/>
+<br/>which speed for science ?
+<br/>which transparency for science ?
+</p>
+
+========================
+type: slide0
+<p style="color:White;font-size:65px">
+slowpen.science
+<br/>
+<br/>brice.beffara@slowpen.science
+</p>
