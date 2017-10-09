@@ -75,8 +75,8 @@ iframe {
   left: 50%;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  min-width: 1680px; 
-  min-height: 1060px; 
+  min-width: 1920px; 
+  min-height: 1080px; 
   width: auto; 
   height: auto;
   z-index: -1000; 
@@ -145,6 +145,9 @@ type: slide1
 <h6>
 s l o w
 </h6>
+
+========================
+<iframe src="https://www.bit.ly/slowpenresp" scrolling= "no"></iframe>
 
 ========================
 <h1><p>
